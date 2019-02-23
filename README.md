@@ -1,2 +1,1 @@
-# alphadigi
-RealTime Webcam based Alphabets &amp; Digit Recognition
+# RealTime Webcam based Alphabets &amp; Digit Recognition
